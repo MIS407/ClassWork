@@ -1,0 +1,7 @@
+Assignment 1
+Due Date: September 16. 2015
+Clone the files myData.csv, myCSV1.py, myCSV2.py, myCSV3.py. 
+Run myCSV1.py and show the output
+Modify myCSV2.py to produce the fifth item also from the data file. 
+Modify myCSV3.py to show the proce for the yellow shirt.
+You may submit the results as a collection in an email or give a link to the files in your repository.
