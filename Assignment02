@@ -1,0 +1,7 @@
+The second assignment is on building and using classes and subclasses. The Ex2Class.py has the basic parts of the assignment. IT has a parent class Person and a subclass Student. Use the Student subclass as a model, create a new subclass SalaryEmp of Person. Include an attribute of monthlyPay.  Create an instance of this new subclass and print the details including salary. Use the following information to create an employee.
+Last Name: Trevor
+First Name: Tony
+Uid: 103
+Salary = $2,500
+
+Submit the completed assignment on Blackboard.
