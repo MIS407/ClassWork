@@ -1,0 +1,6 @@
+Create a module.
+Use the same code from Assignment 2. Remove the def main() and associated code from the program code. Keep the if __name__ = '__main__' and associated code. 
+Save the remaining code into a file called person.py and run to create a module.
+Create a new program file with the def main() code you had removed and call it something else. In this code import person
+Execute and show the results.
+Submit the program files.
