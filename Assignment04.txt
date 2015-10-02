@@ -1,0 +1,12 @@
+In this assignment you will read an Excel spreadsheet with three worksheets. Use the first sheet that has sales data for a number of products over a number of days. After reading the spreadsheet into a workbook (wb), create two separate lists and add (append) to the lists Order Quantity and Sales for all the rows from the worksheet (sheet 0). Compute the following statisticsfrom these two lists.
+a count of number of orders, number of sales
+maximum order quantity, maximumum sales
+minimum order quantity, sales
+mean order quantity, sales
+stdev order quantity, sales
+histogram of order quantity, sales (use appropriate scaling/ banding)
+
+The wrkfile in the ClassWork repository gives you examples 
+Run the program, show the results and submit on BB
+
+The Excel spread sheet is also in the repository. It is called "Sample - Superstore Sales (Excel).xlsx". You will have to download this file on to your desktop or working directory first.
